@@ -1,6 +1,6 @@
 # 🚗 La Conciergerie Auto
 
-Application web de gestion de conciergerie automobile développée avec Symfony.
+Application web de gestion de conciergerie automobile développée avec Symfony et Vuejs.
 
 ## 📋 À propos
 
